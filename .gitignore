@@ -1,0 +1,16 @@
+trace
+__pycache__
+*.ckpt
+*.pth
+*.pt
+*.log
+*.DS_Store
+.vscode
+*.idea
+*.npz
+*.npy
+results*
+generated_samples*
+*.pb
+*.egg-info/
+*.egg
